@@ -1,0 +1,27 @@
+{
+  "fields": [
+    {
+      "name": "dt",
+      "type": "date",
+      "format": "default"
+    },
+    {
+      "name": "AverageTemperature",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "AverageTemperatureUncertainty",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Country",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
