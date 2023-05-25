@@ -33,7 +33,16 @@ Datasets used:
         - Source: World Bank
         - Countries: > 200
         - Time: 1960 -> 2021, annual
-    - Temperature (x 2???)
-        - Source: TBA
+    - Temperature
+        - Source: TBA (x2)
         - Countries: TBA
         - Time: 1788 -> 2021, monthly
+
+Presentation of Data:
+    - Tableau:
+        - The findings of the research (or answers to the research questions) will be presented using an interactive Tableau Dashboard.
+    - Power Point:
+        - A power point presentation will be used to highlight the data analysis techniques and processes the team undertook, as well as outlining the platforms used and some detail the machine-learning models implemented.
+
+Machine Learning Models:
+    - OUTLINE ML MODELS TO BE USED, OPTIMISATION PROCESS, AND HOW THIS OPTIMISATION PROCESS WILL BE DOCUMENTED.
