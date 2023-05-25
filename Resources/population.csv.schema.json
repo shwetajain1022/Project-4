@@ -1,0 +1,337 @@
+{
+  "fields": [
+    {
+      "name": "﻿Data Source",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "World Development Indicators",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
