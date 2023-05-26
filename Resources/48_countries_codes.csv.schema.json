@@ -1,0 +1,17 @@
+{
+  "fields": [
+    {
+      "name": "Country",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Country Code",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
