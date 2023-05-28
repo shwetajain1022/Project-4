@@ -5,9 +5,9 @@
 
 CREATE TABLE "continent" (
     "country_code" varchar(3)   NOT NULL,
-    "country" varchar(100),   NOT NULL,
-    "continent" varchar(60),   NOT NULL,
-    "region" varchar(50)   NOT NULL,
+    "country" varchar(100)   NOT NULL,
+    "continent" varchar(60)   NULL,
+    "region" varchar(50)   NULL,
     CONSTRAINT "pk_continent" PRIMARY KEY (
         "country_code"
      )
@@ -15,11 +15,11 @@ CREATE TABLE "continent" (
 
 CREATE TABLE "gdp" (
     "id"  SERIAL  NOT NULL,
-    "country" varchar(100),   NOT NULL,
-    "country_code" varchar(3),   NOT NULL,
-    "year" varchar(4),   NOT NULL,
-    "month" varchar(2),   NOT NULL,
-    "GDPpermonth" float   NOT NULL,
+    "country" varchar(100)   NOT NULL,
+    "country_code" varchar(3)   NOT NULL,
+    "year" varchar(4)   NOT NULL,
+    "month" varchar(2)   NOT NULL,
+    "GDPpermonth" float   NULL,
     CONSTRAINT "pk_gdp" PRIMARY KEY (
         "id"
      )
@@ -27,11 +27,11 @@ CREATE TABLE "gdp" (
 
 CREATE TABLE "population" (
     "id"  SERIAL  NOT NULL,
-    "country" varchar(100),   NOT NULL,
-    "country_code" varchar(3),   NOT NULL,
-    "year" varchar(4),   NOT NULL,
-    "month" varchar(2),   NOT NULL,
-    "populationpermonth" float   NOT NULL,
+    "country" varchar(100)   NOT NULL,
+    "country_code" varchar(3)   NOT NULL,
+    "year" varchar(4)   NOT NULL,
+    "month" varchar(2)   NOT NULL,
+    "populationpermonth" float   NULL,
     CONSTRAINT "pk_population" PRIMARY KEY (
         "id"
      )
@@ -39,25 +39,26 @@ CREATE TABLE "population" (
 
 CREATE TABLE "energyconsumption" (
     "id"  SERIAL  NOT NULL,
-    "country_code" varchar(3),   NOT NULL,
-    "country" varchar(100),   NOT NULL,
-    "year" varchar(4),   NOT NULL,
-    "month" varchar(2),   NOT NULL,
-    "distribution_losses_electricity" float,   NOT NULL,
-    "coal_peat_and_manufactured_gases" float,   NOT NULL,
-    "combustible_renewables" float,   NOT NULL,
-    "geothermal" float,   NOT NULL,
-    "hydro" float,   NOT NULL,
-    "natural_gas" float,   NOT NULL,
-    "nuclear" float,   NOT NULL,
-    "oil_and_petroleum_products" float,   NOT NULL,
-    "other_combustible_non-renewables" float,   NOT NULL,
-    "other_renewables,others" float,   NOT NULL,
-    "solar" float,   NOT NULL,
-    "wind" float,   NOT NULL,
-    "total_exports_electricity" float,   NOT NULL,
-    "total_imports_electricity" float,   NOT NULL,
-    "used_for_pumped_storage_electricity" float   NOT NULL,
+    "country_code" varchar(3)   NOT NULL,
+    "country" varchar(100)   NOT NULL,
+    "year" varchar(4)   NOT NULL,
+    "month" varchar(2)   NOT NULL,
+    "distribution_losses_electricity" float   NULL,
+    "coal_peat_and_manufactured_gases" float   NULL,
+    "combustible_renewables" float   NULL,
+    "geothermal" float   NULL,
+    "hydro" float   NULL,
+    "natural_gas" float   NULL,
+    "nuclear" float   NULL,
+    "oil_and_petroleum_products" float   NULL,
+    "other_combustible_non-renewables" float   NULL,
+    "other_renewables" float   NULL,
+    "others" float   NULL,
+    "solar" float   NULL,
+    "wind" float   NULL,
+    "total_exports_electricity" float   NULL,
+    "total_imports_electricity" float   NULL,
+    "used_for_pumped_storage_electricity" float   NULL,
     CONSTRAINT "pk_energyconsumption" PRIMARY KEY (
         "id"
      )
@@ -65,10 +66,10 @@ CREATE TABLE "energyconsumption" (
 
 CREATE TABLE "temparature" (
     "id"  SERIAL  NOT NULL,
-    "country_code" varchar(3),   NOT NULL,
-    "country" varchar(100),   NOT NULL,
-    "year" varchar(4),   NOT NULL,
-    "month" varchar(2),   NOT NULL,
+    "country_code" varchar(3)   NOT NULL,
+    "country" varchar(100)   NOT NULL,
+    "year" varchar(4)   NOT NULL,
+    "month" varchar(2)   NOT NULL,
     "avg_temp" float   NOT NULL,
     CONSTRAINT "pk_temparature" PRIMARY KEY (
         "id"
