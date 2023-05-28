@@ -19,7 +19,7 @@ CREATE TABLE "gdp" (
     "country_code" varchar(3),   NOT NULL,
     "year" varchar(4),   NOT NULL,
     "month" varchar(2),   NOT NULL,
-    "GDPpermonth" float   NOT NULL,
+    "gdp_per_month" float   NOT NULL,
     CONSTRAINT "pk_gdp" PRIMARY KEY (
         "id"
      )
@@ -31,7 +31,7 @@ CREATE TABLE "population" (
     "country_code" varchar(3),   NOT NULL,
     "year" varchar(4),   NOT NULL,
     "month" varchar(2),   NOT NULL,
-    "populationpermonth" float   NOT NULL,
+    "population_per_month" float   NOT NULL,
     CONSTRAINT "pk_population" PRIMARY KEY (
         "id"
      )
