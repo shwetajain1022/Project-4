@@ -70,7 +70,7 @@ CREATE TABLE "temparature" (
     "country" varchar(100)   NOT NULL,
     "year" varchar(4)   NOT NULL,
     "month" varchar(2)   NOT NULL,
-    "avg_temp" float   NOT NULL,
+    "tempdiff" float   NOT NULL,
     CONSTRAINT "pk_temparature" PRIMARY KEY (
         "id"
      )
