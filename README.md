@@ -1,4 +1,4 @@
-# Project-4
+<!-- # Project-4
 
 GENERATING ELECTRICITY: RENEWABLES & NON-RENEWABLES
 
@@ -10,7 +10,6 @@ Research Questions:
     3. What is the outlook for solar-based electricity generation in Australia (to 2025)? 
 
 Approach to Answering Research Questions:
-
     - Provide initial overview of electricity production and consumption, by generation type, for a range of countries/regions/continents.
         (Tableau dashboard)
 
@@ -89,4 +88,4 @@ Navigating the Repository:
         - includes 6 x csv files that were original data sources for the project and 1 x csv used as a template for the desired layout of the transformed data.
         - 'Resource Documentation': includes information relevant to any of the projects data sources.
     6. 'zzzArchived':
-        - includes a range of files and notebooks in which work was undertaken, but were not useful in the final presented project.
+        - includes a range of files and notebooks in which work was undertaken, but were not useful in the final presented project. -->
