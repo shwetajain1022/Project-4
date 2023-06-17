@@ -5,19 +5,23 @@
 # Group Members: Shweta Jain, Mohsen Farrokhrouz, Oliver King
 
 # Research Questions:
-#    1. What proportion of electricity generation will renewable sources account for by 2025?
-#    2. Does wealth (GDP per capita) have a significant influence on electricity consumption?
-#    3. What is the outlook for solar-based electricity generation in Australia (to 2025)? 
+    1. What proportion of electricity generation will renewable sources account for by 2025?
+    2. Does wealth (GDP per capita) have a significant influence on electricity consumption?
+    3. What is the outlook for solar-based electricity generation in Australia (to 2025)? 
 
 # Approach to Answering Research Questions:
-#     - Provide initial overview of electricity production and consumption, by generation type, for a range of countries/regions/continents.
-#         (Tableau dashboard)
+     - Provide initial overview of electricity production and consumption, by generation type, for a range of countries/regions/continents.
+        (Tableau dashboard)
 # 
-#     1. Forecast electricity production separately for renewables and non-renewables.
-#        - using time-series machine-learning model from ARIMA family (e.g. ARMA, ARIMA, SARIMA).
-#     2. Analyse relationship between GDP per capita and electricity consumption per capita.
-#        - user able to investigate this phenomenon on interactive Tableau dashbaord.
+     1. Forecast electricity production separately for renewables and non-renewables.
+        - using time-series machine-learning model from ARIMA family (e.g. ARMA, ARIMA, SARIMA).
+     2. Analyse relationship between GDP per capita and electricity consumption per capita.
+        - user able to investigate this phenomenon on interactive Tableau dashbaord.
 
+# Link for Power BI Dashboard
+    
+    - https://app.powerbi.com/view?r=eyJrIjoiYzg0YmM2YjktNzAyNy00NzZhLWIwYmYtNzllOTIzYTA5ZTE4IiwidCI6IjdhOTVhZDY1LTU1ZWUtNDFlMy1iYTQ2LWFjYmRmNjA1ZWUzZCJ9
+    
 # Datasets used:
 #    - Electricity Production and Consumption (by generation-type)
 #        - Source: International Energy Agency (IEA)
